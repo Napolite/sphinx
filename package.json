@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^4.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
   }
 }
